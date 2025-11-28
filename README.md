@@ -63,8 +63,9 @@ figure(3); subplot(3,2,1); plot(t,dm1); title("Recovered Signal 1"); subplot(3,2
 ![WhatsApp Image 2025-11-26 at 9 51 12 PM](https://github.com/user-attachments/assets/52aaa09c-302a-4b96-b6db-4062b4968e46)
 
 ## Calculation:
-![WhatsApp Image 2025-11-28 at 9 53 04 AM](https://github.com/user-attachments/assets/8a2eff55-07d9-4ead-8519-b24e0e7851a0)
-![WhatsApp Image 2025-11-28 at 9 53 43 AM](https://github.com/user-attachments/assets/ce5ddbf0-2ad4-4bf2-b696-854528490565)
+![WhatsApp Image 2025-11-28 at 21 19 04_b12b5369](https://github.com/user-attachments/assets/4555b6c3-2799-4709-950d-aa2cae9fd4ec)
+![WhatsApp Image 2025-11-28 at 21 19 04_528a61d1](https://github.com/user-attachments/assets/fa286354-0480-41c0-be0e-57fcd1dba5d3)
+
 
 
 
